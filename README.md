@@ -2,11 +2,6 @@
 I am a PhD researcher at the University of Oxford working on Geometric Deep Learning and Generative Models.
 
 
-## 🌐 Socials:
-
-My personal website: https://ocariz.vercel.app/
-
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ocariz) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ocariz_h) 
 
 # 💻 Tech Stack:
