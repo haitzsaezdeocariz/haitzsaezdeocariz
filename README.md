@@ -10,7 +10,7 @@ Geometric Deep Learning and Generative Models
 
 
 ## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=ocariz__)](https://twitter.com/ocariz__)
+[![](https://gtce.itsvg.in/api?username=ocariz__)](https://https://x.com/ocariz__)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=haitzsaezdeocariz&icon=0&color=0)](https://visitcount.itsvg.in)
