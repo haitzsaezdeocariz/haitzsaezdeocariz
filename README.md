@@ -1,5 +1,5 @@
 ## 💫 Hi 👋, I'm Ocáriz:
-I am a PhD researcher at the University of Oxford working on Geometric Deep Learning and Generative Models.
+Geometric Deep Learning and Generative Models
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ocariz) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ocariz_h) 
@@ -10,7 +10,7 @@ I am a PhD researcher at the University of Oxford working on Geometric Deep Lear
 
 
 ## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=ocariz_h)](https://twitter.com/ocariz_h)
+[![](https://gtce.itsvg.in/api?username=ocariz_h)](https://twitter.com/ocariz__)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=haitzsaezdeocariz&icon=0&color=0)](https://visitcount.itsvg.in)
