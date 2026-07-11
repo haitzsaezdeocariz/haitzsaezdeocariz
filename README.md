@@ -1,7 +1,25 @@
-## 💫 Hi 👋, I'm Ocáriz:
-Geometric Deep Learning and Generative Models
+# 💫 Hi 👋, I'm Ocáriz (Haitz Sáez de Ocáriz Borde):
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ocariz) [![X](https://img.shields.io/badge/X-%231DA1F2.svg?logo=x&logoColor=white)](https://x.com/ocariz__)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ocariz) [![X](https://img.shields.io/badge/X-%23000000.svg?logo=x&logoColor=white)](https://x.com/ocariz__) [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=aP0OakUAAAAJ&hl=en)
+
+## About
+
+AI researcher working at the intersection of:
+
+- Geometric Deep Learning
+- Representation Learning
+- Generative Models 
+- Foundation Models
+- Machine Learning Theory
+
+I have conducted research at:
+
+- University of Oxford
+- NVIDIA
+- University of Cambridge
+- MIT CSAIL
+- Harvard University
+- Imperial College London
 
 <div align="center">
   <a href="https://commit-history.com/haitzsaezdeocariz">
