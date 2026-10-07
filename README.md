@@ -5,6 +5,7 @@
 AI researcher working at the intersection of:
 
 - Geometric Deep Learning
+- Reasoning
 - Representation Learning
 - Generative Models 
 - Foundation Models
